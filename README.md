@@ -6,7 +6,7 @@
 
 <h1 style="color: #1048CB"><b>Data Source</b></h1>
 
-<p align="justify"> &emsp;The data used in this project is sourced from [UCI's Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#), and is about how a visitor navigates through a site and whether the visit resulted to purchase or not. With 12,330 total sessions, the data includes details such as the visitor profile, value of the pages viewed, seasonality of the visit, ease of search, interest in buying, and web traffic quality. Table 1 provides a brief description of the features in the dataset.</p>
+The data used in this project is sourced from [`UCI's Machine Learning Repository`](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#), and is about how a visitor navigates through a site and whether the visit resulted to purchase or not. With 12,330 total sessions, the data includes details such as the visitor profile, value of the pages viewed, seasonality of the visit, ease of search, interest in buying, and web traffic quality. Table 1 provides a brief description of the features in the dataset.
 
 <br>
 <center style="font-size:12px;font-style:default;"><b>Table. Online Shoppers Purchasing Intention - Data Dictionary</b></center>
@@ -37,7 +37,7 @@
 
 There are 3 main drivers that affect a customer's decision to purchase - the value of the pages visited, seasonality of the visit, and ease of search.
 
-<p align="justify"> &emsp; 1. For `**Seasonal visitors**`, the focus is to reduce the complexity of the experience and ease their search. This can be done by improving the design and usability of the pages or implementing a recommender system for a more personalized user experience.</p>
+<p align="justify"> &emsp; 1. For ***Seasonal visitors***, the focus is to reduce the complexity of the experience and ease their search. This can be done by improving the design and usability of the pages or implementing a recommender system for a more personalized user experience.</p>
 
 <p align="justify"> &emsp; 2. For ***Non-Seasonal, Returning visitors***, it's important to increase their intent to purchase and ease their search for relevant products. These visitors could be encouraged to convert through marketing initiatives such as Nudge, which makes use of subtle prompts as a reminder to complete their purchases. </p>
 
