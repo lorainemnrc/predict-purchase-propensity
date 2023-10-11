@@ -37,11 +37,11 @@ The data used in this project is sourced from [`UCI's Machine Learning Repositor
 
 There are 3 main drivers that affect a customer's decision to purchase - the value of the pages visited, seasonality of the visit, and ease of search.
 
-1. For *Seasonal visitors*, the focus is to reduce the complexity of the experience and ease their search. This can be done by improving the design and usability of the pages or implementing a recommender system for a more personalized user experience.
+1. For ***Seasonal visitors***, the focus is to reduce the complexity of the experience and ease their search. This can be done by improving the design and usability of the pages or implementing a recommender system for a more personalized user experience.
 
-2. For *Non-Seasonal, Returning visitors*, it's important to increase their intent to purchase and ease their search for relevant products. These visitors could be encouraged to convert through marketing initiatives such as Nudge, which makes use of subtle prompts as a reminder to complete their purchases. 
+2. For ***Non-Seasonal, Returning visitors***, it's important to increase their intent to purchase and ease their search for relevant products. These visitors could be encouraged to convert through marketing initiatives such as Nudge, which makes use of subtle prompts as a reminder to complete their purchases. 
 
-3. For *New visitors*, the focus should be on building trust and reducing complexity in their experience. Required personal information should be moderated for new users, and measures implemented to secure personal data and payment information should be apparent. Moreover, the onboarding process should be seamless, and relevant promotional offers could be shown but must not be overwhelming.
+3. For ***New visitors***, the focus should be on building trust and reducing complexity in their experience. Required personal information should be moderated for new users, and measures implemented to secure personal data and payment information should be apparent. Moreover, the onboarding process should be seamless, and relevant promotional offers could be shown but must not be overwhelming.
 
 Identifying these factors towards customer propensity will be a big help for e-commerce website operators. This allows them to better optimize their website design in order to maximize the likelihood of a successful transaction. These e-commerce operators can add seasonality promotions and bundles to entice seasonal visitors and give them a reason to purchase. They can streamline the website in order to increase the user experience of returning visitors and steer them towards the products they are looking for and most likely to purchase. On top of that, these e-commerce operators can design their websites to be intuitive, easy to access, easy to join, and user-friendly for new visitors who are curious about the e-commerce platform.
 
