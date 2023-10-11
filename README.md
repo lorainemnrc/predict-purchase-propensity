@@ -2,11 +2,11 @@
 
 <h1 style="color: #1048CB"><b>Overview</b></h1>
 
-<p style="text-align: justify"> &emsp;The e-Commerce industry is pegged to be the future of retail in the Philippines given the increased digital adoption in the country due to the pandemic. However, customer drop-offs brought by product complexity and low purchase intent limit a business’ growth potential. While there are already efforts made in tracking and analyzing these drop-offs, knowing which aspect to focus on in the customer journey remains a challenge as there can be many points of exit that should be improved with a limited budget. Using Explainable AI, this project aims to uncover the main purchase decision drivers, and the small changes the business can do that would greatly encourage a customer to stay and proceed to purchase.</p>
+<p align="justify"> &emsp;The e-Commerce industry is pegged to be the future of retail in the Philippines given the increased digital adoption in the country due to the pandemic. However, customer drop-offs brought by product complexity and low purchase intent limit a business’ growth potential. While there are already efforts made in tracking and analyzing these drop-offs, knowing which aspect to focus on in the customer journey remains a challenge as there can be many points of exit that should be improved with a limited budget. Using Explainable AI, this project aims to uncover the main purchase decision drivers, and the small changes the business can do that would greatly encourage a customer to stay and proceed to purchase.</p>
 
 <h1 style="color: #1048CB"><b>Data Source</b></h1>
 
-The data used in this project is sourced from [`UCI's Machine Learning Repository`](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#), and is about how a visitor navigates through a site and whether the visit resulted to purchase or not. With 12,330 total sessions, the data includes details such as the visitor profile, value of the pages viewed, seasonality of the visit, ease of search, interest in buying, and web traffic quality. Table 1 provides a brief description of the features in the dataset.
+<p align="justify"> &emsp;The data used in this project is sourced from [`UCI's Machine Learning Repository`](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#), and is about how a visitor navigates through a site and whether the visit resulted to purchase or not. With 12,330 total sessions, the data includes details such as the visitor profile, value of the pages viewed, seasonality of the visit, ease of search, interest in buying, and web traffic quality. Table 1 provides a brief description of the features in the dataset.</p>
 
 <br>
 <center style="font-size:12px;font-style:default;"><b>Table. Online Shoppers Purchasing Intention - Data Dictionary</b></center>
@@ -37,7 +37,7 @@ The data used in this project is sourced from [`UCI's Machine Learning Repositor
 
 There are 3 main drivers that affect a customer's decision to purchase - the value of the pages visited, seasonality of the visit, and ease of search.
 
-1. For ***Seasonal visitors***, the focus is to reduce the complexity of the experience and ease their search. This can be done by improving the design and usability of the pages or implementing a recommender system for a more personalized user experience.
+<p align="justify"> &emsp; 1. For ***Seasonal visitors***, the focus is to reduce the complexity of the experience and ease their search. This can be done by improving the design and usability of the pages or implementing a recommender system for a more personalized user experience.
 
 2. For ***Non-Seasonal, Returning visitors***, it's important to increase their intent to purchase and ease their search for relevant products. These visitors could be encouraged to convert through marketing initiatives such as Nudge, which makes use of subtle prompts as a reminder to complete their purchases. 
 
@@ -45,4 +45,4 @@ There are 3 main drivers that affect a customer's decision to purchase - the val
 
 Identifying these factors towards customer propensity will be a big help for e-commerce website operators. This allows them to better optimize their website design in order to maximize the likelihood of a successful transaction. These e-commerce operators can add seasonality promotions and bundles to entice seasonal visitors and give them a reason to purchase. They can streamline the website in order to increase the user experience of returning visitors and steer them towards the products they are looking for and most likely to purchase. On top of that, these e-commerce operators can design their websites to be intuitive, easy to access, easy to join, and user-friendly for new visitors who are curious about the e-commerce platform.
 
-A fully online transaction is inherently more challenging to control since the customer holds all the power with no salesperson to direct them to a possible purchase. Using the power of machine learning and explainability methods, allows these e-commerce operators to better understand their customers and help them design better experiences.
+A fully online transaction is inherently more challenging to control since the customer holds all the power with no salesperson to direct them to a possible purchase. Using the power of machine learning and explainability methods, allows these e-commerce operators to better understand their customers and help them design better experiences.</p>
