@@ -1,15 +1,10 @@
 ![banner_purchase_propensity](https://github.com/lorainemnrc/predict-purchase-propensity/assets/23328647/ede5eb16-d905-4dd0-af1d-b3b6abdd9db2)
 
-**MSDS 2023** | Loraine Menorca, Ian Christopher Lucas, Felicismo Lazaro III, Christine Albao, William Delfin
-
-***
-
-
 <h1 style="color: #1048CB"><b>Overview</b></h1>
 
 <p style="text-align: justify"> &emsp;The e-Commerce industry is pegged to be the future of retail in the Philippines given the increased digital adoption in the country due to the pandemic. However, customer drop-offs brought by product complexity and low purchase intent limit a business’ growth potential. While there are already efforts made in tracking and analyzing these drop-offs, knowing which aspect to focus on in the customer journey remains a challenge as there can be many points of exit that should be improved with a limited budget. Using Explainable AI, this project aims to uncover the main purchase decision drivers, and the small changes the business can do that would greatly encourage a customer to stay and proceed to purchase.</p>
 
-<h1 style="color: #1048CB"><b>Data Source/b></h1>
+<h1 style="color: #1048CB"><b>Data Source</b></h1>
 
 The data used in this project is sourced from [`UCI's Machine Learning Repository`](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#), and is about how a visitor navigates through a site and whether the visit resulted to purchase or not. With 12,330 total sessions, the data includes details such as the visitor profile, value of the pages viewed, seasonality of the visit, ease of search, interest in buying, and web traffic quality. Table 1 provides a brief description of the features in the dataset.
 
