@@ -14,34 +14,34 @@ The data used in this project is sourced from [`UCI's Machine Learning Repositor
 |Feature    | Data Type     | Description                                                                           |
 |:--------------|:-------------|:--------------------------------------------------------------------------------------|
 |administrative|integer|indicates if the page is an administrative page. 1 if true, otherwise 0
-|administrative_duration|float|indicates the duration of visit in an administrative page
+|administrative_duration|float|indicates the duration of visit on an administrative page
 |informational|integer|indicates if the page is an informational page. 1 if true, otherwise 0
-|informational_duration|float|indicates the duration of visit in an informational page
-|product_related|integer|indicates if the page is an product page. 1 if true, otherwise 0
-|product_related_duration|float|indicates the duration of visit in an product page
+|informational_duration|float|indicates the duration of visit on an informational page
+|product_related|integer|indicates if the page is a product page. 1 if true, otherwise 0
+|product_related_duration|float|indicates the duration of visit in a product page
 |bounce_rates|float|indicates the bounce rate of a user across page visits
 |exit_rates|float|indicates the exit rate of a user across page visits
-|page_values|float|indicates the value of the page based on a google formula
-|special_day|float|indicates whether the visit was near a speciay day. e.g. a holiday
+|page_values|float|indicates the value of the page based on a Google formula
+|special_day|float|indicates whether the visit was near a specific day. e.g. a holiday
 |month|string|tells the month of visit
 |operating_systems|integer|indicates the type of operating system used to enter the site
 |browser|integer|indicates the type of browser used to enter the site
-|region|integer|indicates region of the user
+|region|integer|indicates the region of the user
 |traffic_type|integer|indicates the type of traffic type used to enter the site
 |visitor_type|string|indicates the type of user visiting the site
-|weekend|integer|indicates if the site visit happend during a weekend
-|revenue|integer|indicates whether the site visit resulted into a sale
+|weekend|integer|indicates if the site visit happened during a weekend
+|revenue|integer|indicates whether the site visit resulted in a sale
 
 
 <h1 style="color: #1048CB"><b>Highlights</b></h1>
 
 There are 3 main drivers that affect a customer's decision to purchase - the value of the pages visited, seasonality of the visit, and ease of search.
 
-<p align="justify"> &emsp; 1. For ***Seasonal visitors***, the focus is to reduce the complexity of the experience and ease their search. This can be done by improving the design and usability of the pages or implementing a recommender system for a more personalized user experience.</p>
+<p align="justify"> &emsp; 1. For <strong><em>Seasonal visitors</em></strong>, the focus is to reduce the complexity of the experience and ease their search. This can be done by improving the design and usability of the pages or implementing a recommender system for a more personalized user experience.</p>
 
-<p align="justify"> &emsp; 2. For ***Non-Seasonal, Returning visitors***, it's important to increase their intent to purchase and ease their search for relevant products. These visitors could be encouraged to convert through marketing initiatives such as Nudge, which makes use of subtle prompts as a reminder to complete their purchases. </p>
+<p align="justify"> &emsp; 2. For <strong><em>Non-Seasonal, Returning visitors</em></strong>, it's important to increase their intent to purchase and ease their search for relevant products. These visitors could be encouraged to convert through marketing initiatives such as Nudge, which makes use of subtle prompts as a reminder to complete their purchases. </p>
 
-<p align="justify"> &emsp; 3. For ***New visitors***, the focus should be on building trust and reducing complexity in their experience. Required personal information should be moderated for new users, and measures implemented to secure personal data and payment information should be apparent. Moreover, the onboarding process should be seamless, and relevant promotional offers could be shown but must not be overwhelming.</p>
+<p align="justify"> &emsp; 3. For <strong><em>New visitors</em></strong>, the focus should be on building trust and reducing complexity in their experience. Required personal information should be moderated for new users, and measures implemented to secure personal data and payment information should be apparent. Moreover, the onboarding process should be seamless, and relevant promotional offers could be shown but must not be overwhelming.</p>
 
 <p align="justify"> &emsp; Identifying these factors towards customer propensity will be a big help for e-commerce website operators. This allows them to better optimize their website design in order to maximize the likelihood of a successful transaction. These e-commerce operators can add seasonality promotions and bundles to entice seasonal visitors and give them a reason to purchase. They can streamline the website in order to increase the user experience of returning visitors and steer them towards the products they are looking for and most likely to purchase. On top of that, these e-commerce operators can design their websites to be intuitive, easy to access, easy to join, and user-friendly for new visitors who are curious about the e-commerce platform.</p>
 
